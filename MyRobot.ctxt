@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyRobot
+comment1.params=i\ s\ a\ d
+comment1.target=MyRobot(becker.robots.City,\ int,\ int,\ becker.robots.Direction)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=robot
+comment3.target=boolean\ isRobotAtIntersection(MyRobot)
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=MyRobot[]\ getRedPieces()
+comment3.params=
+comment3.target=MyRobot[]\ getPinkPieces()
+comment4.params=
+comment4.target=becker.robots.Thing[][]\ getThings()
+comment5.params=
+comment5.target=becker.robots.City\ getMyCity()
+comment6.params=
+comment6.target=MyRobot[][]\ getChips()
+numComments=7

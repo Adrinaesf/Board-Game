@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TheMovesOfPieces
+comment1.params=
+comment1.target=void\ DiceNum()
+comment2.params=
+comment2.target=java.lang.String\ getDiceDesicion()
+comment3.params=
+comment3.target=int\ getDice1()
+comment4.params=
+comment4.target=int\ getDice2()
+numComments=5
